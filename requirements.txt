@@ -8,4 +8,4 @@ sentencepiece
 torch
 huggingface-hub==0.26.2
 tokenizers==0.20.3
-numpy<2.0
+numpy==1.26.4
