@@ -1,0 +1,62 @@
+
+INDUSTRIAL MAINTENANCE GUIDE
+
+1. MOTOR MAINTENANCE
+
+Common motor problems include overheating, unusual vibration, excessive noise, and failure to start.
+
+Possible causes of overheating include blocked ventilation, a damaged cooling fan, excessive load, and poor maintenance.
+
+Maintenance guidance:
+- Stop the equipment if overheating is suspected.
+- Notify the responsible maintenance personnel.
+- Only trained and authorized personnel should inspect the motor.
+- Isolate the energy source and follow the site's lockout/tagout procedure before inspection or maintenance.
+- Never touch exposed electrical parts.
+
+2. CONVEYOR BELT MAINTENANCE
+
+Common conveyor problems include belt misalignment, unusual noise, slipping, and visible wear.
+
+Maintenance guidance:
+- Stop the conveyor if an unsafe condition is observed.
+- Report belt damage or misalignment to maintenance personnel.
+- Keep people away from moving belts and rollers.
+- Isolate energy and follow lockout/tagout procedures before inspection or maintenance.
+- Do not attempt repairs while the conveyor is running.
+
+3. PUMP MAINTENANCE
+
+Common pump problems include leakage, unusual vibration, overheating, and reduced flow.
+
+Maintenance guidance:
+- Stop and report any serious or unusual leakage.
+- Check for visible leaks only from a safe distance.
+- Inspection and repairs must be carried out by trained personnel.
+- Isolate electrical and other hazardous energy sources before maintenance.
+- Follow the manufacturer's instructions and site procedures.
+
+4. MACHINE NOISE AND VIBRATION
+
+Unusual noise or vibration can indicate loose components, worn parts, misalignment, or another mechanical problem.
+
+Maintenance guidance:
+- Stop the machine if it appears unsafe.
+- Record the symptoms and report them to the maintenance team.
+- Do not remove guards or touch moving components.
+- Inspection must follow site safety procedures.
+
+5. PREVENTIVE MAINTENANCE
+
+Preventive maintenance helps reduce unexpected equipment failures.
+
+Recommended practices:
+- Follow the manufacturer's maintenance schedule.
+- Check equipment for visible damage from a safe position.
+- Keep maintenance records.
+- Report unusual sounds, vibration, overheating, and leakage.
+- Allow only trained and authorized personnel to perform maintenance.
+
+IMPORTANT SAFETY NOTICE
+
+This guide provides general educational information. It does not replace manufacturer instructions, approved site procedures, or professional maintenance advice. Never perform maintenance on energized or moving machinery.

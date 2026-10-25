@@ -1,0 +1,9 @@
+
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+transformers==4.46.3
+sentencepiece
+torch
+numpy
