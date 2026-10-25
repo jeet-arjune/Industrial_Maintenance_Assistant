@@ -1,9 +1,11 @@
 
 streamlit
-sentence-transformers
+sentence-transformers==3.3.1
 faiss-cpu
 pypdf
 transformers==4.46.3
 sentencepiece
 torch
-numpy
+huggingface-hub==0.26.2
+tokenizers==0.20.3
+numpy<2.0
